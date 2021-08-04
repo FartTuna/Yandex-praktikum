@@ -1,2 +1,2 @@
-# Yandex-praktikum
+# PraktikumDAProjects
 Проекты, выполненные во время обучения
