@@ -11,12 +11,9 @@
 - Plotly
 - Warnings
 - DateTime
-- sklearn
-
-
-
-
-
+- Sklearn
+- IO
+- Re
 
 # Краткое описание проектов:
 
